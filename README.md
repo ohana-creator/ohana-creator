@@ -22,7 +22,7 @@
   <text x="390" y="52" font-family="Georgia, serif" font-size="38" font-weight="700"
         fill="url(#nameGrad)" text-anchor="middle" letter-spacing="6">OHANA BENTO</text>
   <text x="390" y="82" font-family="monospace" font-size="13" fill="#c9a0ac"
-        text-anchor="middle" letter-spacing="3">  ·  Blockchain Developer · DevRel</text>
+        text-anchor="middle" letter-spacing="3">  ·  Developer · DevRel</text>
   <line x1="120" y1="95" x2="660" y2="95" stroke="#f4a7b9" stroke-width="0.5" opacity="0.4"/>
 </svg>
 
@@ -38,11 +38,9 @@
 
 ## About
 
-Software Engineering student at **Escola 42 Luanda** and freelance designer. I build decentralised protocols, data systems, and production infrastructure — and occasionally direct short films.
-
-My focus is on blockchain development (Ethereum, Solidity, Avalanche) and the intersection between technology, design, and real-world utility. I am looking for roles in **Lisbon**, **Germany**, or **Remote**.
-
-I aim to create efficient, trustless systems tailored to African & global realities, because I belive that technology is most powerful when it reaches those who need it most.
+Software Engineer. I build decentralised protocols, data systems, and production infrastructure — and occasionally direct short films.
+My focus is on blockchain development (Ethereum, Solidity, Avalanche) and the intersection between technology, design, and real-world utility. I am looking for roles in Lisbon, Germany, or Remote.
+I aim to create efficient, trustless systems tailored to African & global realities, because I believe that technology is most powerful when it reaches those who need it most.
 
 ---
 
@@ -66,8 +64,8 @@ I aim to create efficient, trustless systems tailored to African & global realit
 
 | Project | Description | Stack |
 |---|---|---|
+| [**ZKTeco LX14 Integration**](https://github.com/ohana-creator/zkteco-lx14-integration) | Recovered an undocumented biometric terminal at a law firm — no credentials, no docs. Built a full pipeline from USB extraction to automated HTML attendance reports. Documented on Medium. | `Python` `Linux` `pyzk` `HTML`|
 | [**Single-Service-Container**](https://github.com/ohana-creator/Single-Service-Container) | Production-grade Docker + Nginx with TLS 1.2/1.3, built from scratch. | `Docker` `Nginx` `TLS` |
-
 
 
 ---
@@ -112,4 +110,5 @@ I am actively looking for blockchain and Developer Relations roles.
 If you're building something in DeFi, wallet infrastructure, or decentralised systems — let's talk.
 
 
-**[ohanalweji@gmail.com](mailto:ohanalweji@gmail.com)** · **[linkedin.com/in/ohana-bento](https://www.linkedin.com/in/ohana-bento)**
+**[ohanalweji@gmail.com](mailto:ohanalweji@gmail.com)** · **[linkedin.com/in/ohana-bento](https://www.linkedin.com/in/ohana-bento)** · **[ https://medium.com/@ohanalweji
+]( https://medium.com/@ohanalweji)**
