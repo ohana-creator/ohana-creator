@@ -29,7 +29,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana--bento-c9748a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohana-bento)
-![Location](https://img.shields.io/badge/Luanda,_Angola-f4c2cc?style=flat-square&logoColor=333)
+![Location](https://img.shields.io/badge/Portugal-f4c2cc?style=flat-square&logoColor=333)
 [![Email](https://img.shields.io/badge/Email-ohanalweji%40gmail.com-e8a0b0?style=flat-square&logo=gmail&logoColor=white)](mailto:ohanalweji@gmail.com)
 
 </div>
