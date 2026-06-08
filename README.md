@@ -22,7 +22,7 @@
   <text x="390" y="52" font-family="Georgia, serif" font-size="38" font-weight="700"
         fill="url(#nameGrad)" text-anchor="middle" letter-spacing="6">OHANA BENTO</text>
   <text x="390" y="82" font-family="monospace" font-size="13" fill="#c9a0ac"
-        text-anchor="middle" letter-spacing="3">  ·  Developer · DevRel</text>
+        text-anchor="middle" letter-spacing="3">  ·  Developer  </text>
   <line x1="120" y1="95" x2="660" y2="95" stroke="#f4a7b9" stroke-width="0.5" opacity="0.4"/>
 </svg>
 
