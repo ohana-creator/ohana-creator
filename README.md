@@ -38,8 +38,7 @@
 
 ## About
 
-Software Engineer. I build decentralised protocols, data systems, and production infrastructure — and occasionally direct short films.
-My focus is on blockchain development (Ethereum, Solidity, Avalanche) and the intersection between technology, design, and real-world utility. I am looking for roles in Lisbon, Germany, or Remote.
+C++ software engineer with a deep foundation in object-oriented design, multithreading, memory management, and systems programming — built through 42 School's fully autonomous, peer-reviewed curriculum. Experienced in writing production-quality C/C++ from scratch under real constraints, with a track record of delivering independently verified, well-tested solutions. Comfortable in cross-functional, international teams and agile workflows
 I aim to create efficient, trustless systems tailored to African & global realities, because I believe that technology is most powerful when it reaches those who need it most.
 
 ---
