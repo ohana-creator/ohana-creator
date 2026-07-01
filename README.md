@@ -73,8 +73,7 @@ I aim to create efficient, trustless systems tailored to African & global realit
 
 ```
 Blockchain     Solidity · Ethereum · Avalanche · EVM · Hardhat · ERC-20 · ERC-721
-Languages      C · C++ · Python · TypeScript
-Web            HTML · CSS
+Languages      C · C++ · Python 
 Data           Pandas · NumPy · scikit-learn
 Infrastructure Linux · Docker · Nginx · Git
 Design         Canva · Figma · Brand Identity · UI/UX
@@ -84,7 +83,7 @@ Design         Canva · Figma · Brand Identity · UI/UX
 
 ## Background
 
-- Common Core, **Escola 42 Luanda** — May 2024 to present
+- Common Core, **Escola 42 Luanda** — May 2024 to May 2026
 - High School in Physics and Biology, **CEPI Luanda** — 2020 to 2023
 - IELTS 6.5 · SAT 1070
 
@@ -105,8 +104,7 @@ Design         Canva · Figma · Brand Identity · UI/UX
 
 ## Open to Opportunities
 
-I am actively looking for blockchain and Developer Relations roles.
-If you're building something in DeFi, wallet infrastructure, or decentralised systems — let's talk.
+Let's talk!
 
 
 **[ohanalweji@gmail.com](mailto:ohanalweji@gmail.com)** · **[linkedin.com/in/ohana-bento](https://www.linkedin.com/in/ohana-bento)** · **[ https://medium.com/@ohanalweji
