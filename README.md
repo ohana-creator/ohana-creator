@@ -38,7 +38,7 @@
 
 ## About
 
-C++ software engineer with a deep foundation in object-oriented design, multithreading, memory management, and systems programming — built through 42 School's fully autonomous, peer-reviewed curriculum. Experienced in writing production-quality C/C++ from scratch under real constraints, with a track record of delivering independently verified, well-tested solutions. Comfortable in cross-functional, international teams and agile workflows
+C++ software engineer with a deep foundation in object-oriented design, multithreading, memory management, and systems programming — built through 42 School's fully autonomous, peer-reviewed curriculum. Experienced in writing production-quality C/C++. Comfortable in cross-functional, international teams and agile workflows
 I aim to create efficient, trustless systems tailored to African & global realities, because I believe that technology is most powerful when it reaches those who need it most.
 
 ---
@@ -56,7 +56,6 @@ I aim to create efficient, trustless systems tailored to African & global realit
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SalaryScope**](https://github.com/ohana-creator/SalaryScope-Salary-Range-Engine) | Backend engine computing statistically robust salary ranges using percentile modelling. | `TypeScript` `Data Science` |
 | [**Titanic-FTL**](https://github.com/ohana-creator/Titanic-FTL) | ML survival prediction model — final project for Frontier Tech Labs. | `Python` `ML` `Jupyter` |
 
 ### Infrastructure
@@ -72,11 +71,10 @@ I aim to create efficient, trustless systems tailored to African & global realit
 ## Stack
 
 ```
-Blockchain     Solidity · Ethereum · Avalanche · EVM · Hardhat · ERC-20 · ERC-721
+Blockchain     Solidity · Ethereum · Avalanche · Hardhat 
 Languages      C · C++ · Python 
-Data           Pandas · NumPy · scikit-learn
 Infrastructure Linux · Docker · Nginx · Git
-Design         Canva · Figma · Brand Identity · UI/UX
+Design         Canva · Figma · Brand Identity 
 ```
 
 ---
